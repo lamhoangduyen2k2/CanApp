@@ -88,7 +88,8 @@ public class EditInformation extends AppCompatActivity {
                 @Override
                 public void onClick(View view) {
 
-                    UploadAll();
+                    //UploadAll();
+                    UploadImage();
                 }
             });
             constraint_huy.setOnClickListener(new View.OnClickListener() {
